@@ -5,6 +5,7 @@
 ## 🌐 Link App
 
 👉 **[Chạy app tại đây](https://chitay-app-sumyzstcah6f92ajarsrbk.streamlit.app/)**
+👉 **[ app tại đây](https://huggingface.co/spaces/vettev/face-recognition/tree/main)**
 
 ## 📋 Tính năng
 
